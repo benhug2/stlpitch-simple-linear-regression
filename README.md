@@ -55,5 +55,3 @@ Potential extensions to this analysis include:
 ---
 
 *"Baseball is like church. Many attend, few understand." - Leo Durocher*
-
-Created with passion for Cardinals baseball and data science.
